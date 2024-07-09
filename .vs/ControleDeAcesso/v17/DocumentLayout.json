@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\modulos\\produtos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\modulos\\produtos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\modulos\\produtos\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\modulos\\produtos\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|c:\\users\\gabriel\\source\\repos\\controledeacesso\\src\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2E6481-7F10-4E37-BFEE-4059E0A28C71}|src\\App\\App.csproj|solutionrelative:src\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Program.cs",
+              "RelativeDocumentMoniker": "src\\App\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Program.cs",
+              "RelativeToolTip": "src\\App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:49:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "src\\App\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "src\\App\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:39:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\App\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\appsettings.json",
+              "RelativeToolTip": "src\\App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T20:32:43.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "RelativeToolTip": "src\\App\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:31:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\App\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:31:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "src\\App\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:30:52.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "src\\App\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:30:46.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "src\\App\\Views\\Produtos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:30:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "src\\App\\Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:30:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "src\\App\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:30:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ControleDeAcesso\\src\\App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:29:44.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
